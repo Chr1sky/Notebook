@@ -1,4 +1,4 @@
-#Program Description
+##Program Description
 This simple notebook allows the user to create, view, edit, and delete text notes in the terminal. The program uses text files to store the content of the notes.
 
 Using the Program:
